@@ -3,6 +3,6 @@ Uses Machine Learning API SKLearn and Pandas to rank relevancy between data colu
 
 Ever wondered who the ideal demographic for your online store are? Or what helps students best achieve higher test scores?
 
-Linear regression will measure data provided by a CSV or Excel file to find correlation between factors in data to find out what most affects the bottom line.
+Linear regression will measure data provided by a CSV or Excel file to find correlations between factors in data to find out what most affects the bottom line.
 
 A powerful asset for businesses, analysts and anything that can be logged as numbers and categories.
